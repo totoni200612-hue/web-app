@@ -1,0 +1,6 @@
+{
+  "name": "GestorPCP - ERP de Produção e Gestão Empresarial",
+  "description": "Sistema completo de ERP e Planejamento e Controle da Produção (PCP) para pequenas empresas, com controle de fichas técnicas, matéria-prima, clientes, fornecedores, capacidade instalada, ordens de produção e emissão de documentos técnicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
